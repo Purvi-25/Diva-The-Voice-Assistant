@@ -2,6 +2,16 @@
 Diva is a basic voice-controlled web assistant built using HTML, CSS, and JavaScript. 
 It uses the Web Speech API to recognize voice commands and perform simple actions in the browser.
 
+## 📸 Screenshots
+- Main UI
+![Main UI](assests/main_ui.JPG)
+
+- Listening
+![Listening](assests/listening.JPG)
+
+- Command Response
+- ![Command Response](assests/command_response.JPG)
+
 ## 🚀 Features
 - 🎤 Voice Recognition using Web Speech API
 - 🌐 Opens websites based on voice commands
